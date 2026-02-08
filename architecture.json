@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-northern-satirical-prose-nature-civilization",
+  "title": "The River's Sceptical Inquiry",
+  "tagline": "In a town built on mud and folly, a river argues, an eel questions, and a man fishes for truth amidst the grinding absurdity of civilization.",
+  "target_words": 74655,
+  "actual_words": 74655,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Futility of Human Endeavor",
+    "The Wisdom and Indifference of Nature",
+    "The Absurdity of Social Order",
+    "Skepticism versus Dogma"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The River's Philosophical Argument",
+      "words": 6221
+    },
+    {
+      "ch": 2,
+      "title": "A Temporary Truce with the Land",
+      "words": 6221
+    },
+    {
+      "ch": 3,
+      "title": "The Unmistakable Word in Oak",
+      "words": 6221
+    },
+    {
+      "ch": 4,
+      "title": "A Mutual, Hostile Understanding",
+      "words": 6221
+    },
+    {
+      "ch": 5,
+      "title": "The City's Voracious Disposition",
+      "words": 6221
+    },
+    {
+      "ch": 6,
+      "title": "Stratified Libraries of Ended Purposes",
+      "words": 6221
+    },
+    {
+      "ch": 7,
+      "title": "A Sedimentary Retort",
+      "words": 6221
+    },
+    {
+      "ch": 8,
+      "title": "Conveyance, Grinding and Deafening",
+      "words": 6221
+    },
+    {
+      "ch": 9,
+      "title": "On the Digestion of Nonsense",
+      "words": 6221
+    },
+    {
+      "ch": 10,
+      "title": "Heat, Hammering, and Structural Failure",
+      "words": 6221
+    },
+    {
+      "ch": 11,
+      "title": "Stubbornness, Ale, and a Sleeper",
+      "words": 6221
+    },
+    {
+      "ch": 12,
+      "title": "The Absorbed Argument",
+      "words": 6221
+    }
+  ]
+}
